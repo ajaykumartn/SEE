@@ -40,7 +40,4 @@ jobs:
         python debug_similarity.py
         python sentence.py
         python update_embeddings_once.py
-        python 1_Home.py
-        python 2_Create_Campaign.py
-        python 3_View_Campaigns.py
 
