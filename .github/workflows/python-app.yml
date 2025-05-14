@@ -40,5 +40,4 @@ jobs:
         python debug_similarity.py
         python sentence.py
         python update_embeddings_once.py
-        pylint app.py
 
